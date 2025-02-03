@@ -1,4 +1,5 @@
 Udemy-Clone-Website
+
 This project is a basic single-page clone of the Udemy platform, created using HTML and basic CSS. It mimics the structure of the Udemy homepage with sections such as course categories, featured courses, and a navigation bar. The goal of this project is to demonstrate how to build a simple, responsive webpage using foundational web development techniques.
 
 Features:
