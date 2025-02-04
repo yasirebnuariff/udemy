@@ -47,7 +47,7 @@
     padding: 10px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     border-bottom: solid black 1px;
     width:99%;
 
