@@ -185,7 +185,7 @@ padding-bottom:20px;}
     display: block;
    }
    /* media screen */
-   @media screen and (max-width:500px) {
+   @media screen and (max-width:600px) {
     
     body{
         font-size: 10px;
@@ -196,28 +196,14 @@ padding-bottom:20px;}
     }
   .sale__box{
     width:50%;
-    height: 30%;
+    height: 10%;
     position: absolute;
-    top: 23%;
+    top: 10%;
     padding: 5px;
-
-    
    
    }
-   .pp1{
-    padding-top:1px;
-   }
-   .p2{
-    padding-top: 10px;
-   }
-   @media  screen and (max-width:100%) {
-
-    .sale__box{
-        position: absolute;
-        top: 20%;
-    }
-    
-   }
+  
+  
 
   
 }
