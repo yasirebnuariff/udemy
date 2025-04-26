@@ -185,7 +185,7 @@ padding-bottom:20px;}
     display: block;
    }
    /* media screen */
-   @media screen and (max-width:600px) {
+   @media screen and (max-width:500px) {
     
     body{
         font-size: 10px;
@@ -202,7 +202,7 @@ padding-bottom:20px;}
     padding-top:1px;
    }
    .p2{
-    padding: top 10px;
+    padding-top: 10px;
    }
 
   
