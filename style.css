@@ -204,6 +204,14 @@ padding-bottom:20px;}
    .p2{
     padding-top: 10px;
    }
+   @media  screen and (max-width:100%) {
+
+    .sale__box{
+        position: absolute;
+        top: 20%;
+    }
+    
+   }
 
   
 }
